@@ -1,5 +1,5 @@
 {
-  "name": "bosh-deployment-manifest",
+  "name": "bosh-yaml",
   "main": "./lib/main",
   "version": "0.0.1",
   "description": "Provides validation and content assist for various Bosh configuration files",
