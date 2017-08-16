@@ -42,8 +42,7 @@ read its detailed documentation:
 
 ### Navigate to Symbol in File
 
-Is your Pipeline yaml file getting larger and it is becoming harder to find a particular Job, Resource or
-Resource Type declaration? The Atom Outline View (View -> Toggle Outline View) helps you quickly jump to a specific definition.
+Is your deployment manifest file getting larger and it is becoming harder to find a particular Instance Group, Release, or Stemcell definition? The Atom Outline View (View -> Toggle Outline View) helps you quickly jump to a specific definition.
 
 ![Outline View][outline_view]
 
