@@ -70,16 +70,21 @@ From Atom, press `CTRL-SHIFT-P` and type `config`. Then enter or edit:
   "bosh-yaml":
     bosh:
       cli:
+        # Path to an executable to launch the bosh cli V2. A V2 cli is required! 
+        # Set this to null to completely disable all editor features that require access to the bosh director
         command: "bosh"
+        # Specifies the director/environment to target when executing bosh cli commands. 
+        # I.e. this value is passed to the CLI via `-e` parameter.
         target: "mytarget"
+        # Number of seconds before CLI commands are terminated with a timeout
         timeout: 3
 ```
-The bosh cli is configured by specifying keys of the form `bosh.cli.XXX`. Content assist and hover docs show you the
-available keys and their meaning.
+The Bosh CLI is configured by specifying these keys as shown above: `command`, `target`, and `timeout`. The comments in the example above describe what
+each key does.
 
-Note that the `bosh.cli.XXX` settings do not allow you to provide credentials to connect to the director.
+Note that these key settings do not allow you to provide credentials to connect to the director.
 The editor assumes that you are providing the credentials implicitly by using the `bosh login` command from a terminal.
-The bosh cli will persist the credentials in `~/.bosh/config` and read them from there. A typical sequence of commands to store the credentials would be something like the following:
+The Bosh CLI will persist the credentials in `~/.bosh/config` and read them from there. A typical sequence of commands to store the credentials would be something like the following:
 
 First, create an alias for your environment:
 
@@ -124,7 +129,7 @@ Succeeded
 
 #### Implictly Configure the CLI:
 
-If the bosh cli is not explicitly configured, the editor will, by default, try to execute commands like `bosh cloud-config --json`
+If the Bosh CLI is not explicitly configured, the editor will, by default, try to execute commands like `bosh cloud-config --json`
 and `bosh stemcells --json` without an explicit `-e ...` argument. This works only if you ensure that the editor
 process executes with a proper set of OS environment variables:
 
