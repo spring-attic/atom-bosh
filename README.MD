@@ -162,7 +162,7 @@ https://raw.githubusercontent.com/spring-projects/atom-bosh/bdd2ab880a6e7ee20842
 https://raw.githubusercontent.com/spring-projects/atom-bosh/bdd2ab880a6e7ee20842df679deee46f12b59ef4/readme-imgs/ca1.png
 
 [ca2]:
-https://raw.githubusercontent.com/spring-projects/atom-bosh/bdd2ab880a6e7ee20842df679deee46f12b59ef4/readme-imgs/ca2.png
+https://raw.githubusercontent.com/spring-projects/atom-bosh/ea02d9f0a6073beb2f7f8852df5efe306e00defb/readme-imgs/ca2.png
 
 [hovers]:
 https://raw.githubusercontent.com/spring-projects/atom-bosh/bdd2ab880a6e7ee20842df679deee46f12b59ef4/readme-imgs/hovers.png
