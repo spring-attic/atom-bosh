@@ -8,7 +8,11 @@ It is recommended to use this extension package when `atom-ide-ui` atom extensio
 
 ## Usage
 
-The Bosh editor automatically activates when the name of the file you are editing is `deployment.yml`, or editor grammar is set to `Bosh-Deployment-Manifest`, or the file is `cloud-config.yml`, or editor grammar is set to `Bosh-Cloud-Config`.
+The Bosh editor automatically activates when the name of the file you are editing is `deployment.yml`or `cloud-config.yml`. Alternately, you can select the grammar for your file by doing these steps:
+
+- Open the file, it will most likely open with the default Atom YAML editor.
+- In the bottom-right of the editor, click on YAML.
+- This opens the Grammar Selection dialogue. Search for and select `Bosh-Deployment-Manifest` for deployment files, or `Bosh-Cloud-Config` for Cloud Config files.
 
 ## Functionality
 
