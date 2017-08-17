@@ -30,7 +30,7 @@ an error marker to see an explanation:
 ### Content assist
 
 Having trouble remembering all the names of the attributes, and their spelling? Or can't remember
-the exact name/version of the stemcell you just uploaded to your bosh environment? Content assist
+what lifecycle values are available? Content assist
 to the rescue:
 
 ![Content Assist Screenshot][ca1]
