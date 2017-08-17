@@ -1,4 +1,4 @@
-# Concourse CI YAML Editor for Atom
+# Bosh Deployment Manifest Editor for Atom
 [![macOS Build Status](https://travis-ci.org/spring-projects/atom-bosh.svg?branch=master)](https://travis-ci.org/spring-projects/atom-bosh) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/1jvknxt9jhykgrxo?svg=true)](https://ci.appveyor.com/project/spring-projects/atom-bosh/branch/master) [![Dependency Status](https://david-dm.org/spring-projects/atom-bosh.svg)](https://david-dm.org/spring-projects/atom-bosh)
 
 This extension provides basic validation, content assist and hover infos
