@@ -146,4 +146,12 @@ If you subsequently launch Atom from that same terminal the dynamic CA and linti
 5. Perform `Reload Window` in Atom (Cmd-Shift-P opens commands palette, search for `reload`, select, press `Return`)
 6. Open any `pipeline.yml` or `task.yml` file in Atom observe reconciling, content assist and other IDE features
 
+[linting]:
 
+[ca1]:
+
+[ca2]:
+
+[hovers]:
+
+[outline_view]:
