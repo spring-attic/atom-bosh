@@ -71,7 +71,7 @@ From Atom, press `CTRL-SHIFT-P` and type `config`. Then enter or edit:
     bosh:
       cli:
         command: "bosh"
-        target: mytarget
+        target: "mytarget"
         timeout: 3
 ```
 The bosh cli is configured by specifying keys of the form `bosh.cli.XXX`. Content assist and hover docs show you the
