@@ -35,7 +35,7 @@ to the rescue:
 
 ![Content Assist Screenshot][ca1]
 
-![Content Assist Screenshot][ca3]
+![Content Assist Screenshot][ca2]
 
 ### Documentation Hovers
 
