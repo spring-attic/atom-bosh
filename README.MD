@@ -156,16 +156,16 @@ If you subsequently launch Atom from that same terminal the dynamic CA and linti
 6. Open any `pipeline.yml` or `task.yml` file in Atom observe reconciling, content assist and other IDE features
 
 [linting]:
-https://raw.githubusercontent.com/spring-projects/atom-bosh/master/readme-imgs/linting.png
+https://raw.githubusercontent.com/spring-projects/atom-bosh/834092c04448412dee44d007e8648c5bcaa2cabb/readme-imgs/linting.png
 
 [ca1]:
-https://raw.githubusercontent.com/spring-projects/atom-bosh/master/readme-imgs/ca1.png
+https://raw.githubusercontent.com/spring-projects/atom-bosh/834092c04448412dee44d007e8648c5bcaa2cabb/readme-imgs/ca1.png
 
 [ca2]:
-https://raw.githubusercontent.com/spring-projects/atom-bosh/master/readme-imgs/ca2.png
+https://raw.githubusercontent.com/spring-projects/atom-bosh/834092c04448412dee44d007e8648c5bcaa2cabb/readme-imgs/ca2.png
 
 [hovers]:
-https://raw.githubusercontent.com/spring-projects/atom-bosh/master/readme-imgs/hovers.png
+https://raw.githubusercontent.com/spring-projects/atom-bosh/834092c04448412dee44d007e8648c5bcaa2cabb/readme-imgs/hovers.png
 
 [outline_view]:
-https://raw.githubusercontent.com/spring-projects/atom-bosh/master/readme-imgs/outline_view.png
+https://raw.githubusercontent.com/spring-projects/atom-bosh/834092c04448412dee44d007e8648c5bcaa2cabb/readme-imgs/outline_view.png
