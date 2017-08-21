@@ -1,4 +1,4 @@
-'.source.yaml':
+'.source.bosh-cloud-config':
   'editor':
     'autoIndentOnPaste': false
     'commentStart': '# '
