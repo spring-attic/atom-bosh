@@ -1,0 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const bosh_yaml_client_1 = require("./bosh-yaml-client");
+module.exports = new bosh_yaml_client_1.BoshYamlClient();
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uL2xpYi9tYWluLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEseURBQWtEO0FBRWxELE1BQU0sQ0FBQyxPQUFPLEdBQUcsSUFBSSxpQ0FBYyxFQUFFLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge0Jvc2hZYW1sQ2xpZW50fSBmcm9tICcuL2Jvc2gteWFtbC1jbGllbnQnO1xuXG5tb2R1bGUuZXhwb3J0cyA9IG5ldyBCb3NoWWFtbENsaWVudCgpOyJdfQ==
