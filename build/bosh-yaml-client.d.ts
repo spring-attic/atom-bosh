@@ -1,4 +1,4 @@
-import { JavaProcessLanguageClient } from '@pivotal-tools/atom-languageclient-commons';
+import { JavaProcessLanguageClient, JavaOptions } from '@pivotal-tools/atom-languageclient-commons';
 import { ActiveServer } from 'atom-languageclient';
 import { JVM } from '@pivotal-tools/jvm-launch-utils';
 export declare class BoshYamlClient extends JavaProcessLanguageClient {
@@ -10,4 +10,5 @@ export declare class BoshYamlClient extends JavaProcessLanguageClient {
     activate(): void;
     launchVmArgs(jvm: JVM): Promise<string[]>;
     sendConfig(server: ActiveServer): void;
+    getJavaOptions(): JavaOptions;
 }
