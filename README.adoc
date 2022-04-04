@@ -1,0 +1,2 @@
+# atom-bosh is no longer actively maintained by VMware, Inc.
+
